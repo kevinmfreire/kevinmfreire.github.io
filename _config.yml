@@ -1,11 +1,24 @@
-title: John Doe # your name (or website title) here
+title: Kevin Freire # your name (or website title) here
 logo: "/images/kevin_logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I am a data scientist with over 2 years of experience 
+  in machine learning and data analysis. With a Masters 
+  degree in Computer Engineering from Toronto Metropolitan 
+  University, I possess a strong foundation in programming, 
+  statistics, and data modeling. I have demonstrated success 
+  in applying advanced analytical techniques to develop
+  predictive models, and have a deep understanding of both
+  supervised and unsupervised learning algorithms. Additionally, 
+  I have experience in data visualization, data preprocessing, 
+  and feature engineering. My expertise in machine learning 
+  has helped me in developing predictive models that can be 
+  applied in real-world scenarios, resulting in actionable 
+  insights that drive business success.
+
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+
+  <a href="https://www.linkedin.com/in/kevinmfreire/">View My LinkedIn Profile</a>
+  <a href="https://github.com/kevinmfreire">View My GitHub Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

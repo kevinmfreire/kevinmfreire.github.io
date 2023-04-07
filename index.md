@@ -14,6 +14,8 @@ This project involves building a text classification model for sentiment analysi
 </div>
 
 [View code on GitHub](https://github.com/kevinmfreire/meaningful_words)
+<br>
+[Try out my Demo.](https://kevinmfreire-meaningful-words-st-app-q4hiuc.streamlit.app/#demo)
 
 ---
 
@@ -51,6 +53,8 @@ In this project, I aim to develop a web scraping script that utilizes Spacy's pr
 ### Valentino Website Product Extraction and Analysis using Python, Beautiful Soup, Selenium, Pandas, and Tableau
 This project involves using Python, Beautiful Soup, Selenium, and Pandas to extract product information from the Valentino website. We will extract data such as product names, prices, descriptions, sizes, colors, and images, and then perform data analysis using pandas and matplotlib to gain insights into the trends and patterns of the products. Additionally, I use Tableau to create interactive visualizations to further explore and analyze the data. This project showcases the power of web scraping and data analysis using Python and its libraries, as well as the ability to present findings using Tableau.
 
+<iframe src="https://public.tableau.com/app/profile/kevin.freire/viz/ValentinoProductAnalysis/ValentinoProductAnalysis?publish=yes" style="width:100%; height:300px;"></iframe>
+
 <div>
     <img src="https://img.shields.io/badge/Python-white?logo=Python"/>
     <img src="https://img.shields.io/badge/pandas-white?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMIAAAEDCAMAAABQ/CumAAAAeFBMVEX///8TB1QAAEb/ygDnBIgPAFLNzNYTAFnQ0NgMAFcAAETb2eP39/oUBlfV1N7/xwDmAID/9tfLydcjG17/4Yz//vbCwM3ykcL61OfoBIwyKmgAADYAAE0AAErx8PTIxdT/+un/34T85/Lyir/lAHv50eX+9fkpH2Ma8J+4AAACEklEQVR4nO3dzVIaQRSAUYNCEIGoiYmJivnP+79hFrmLVHELZ6pnmG483xqaPruh5lb32ZkkSZIkSZIkvb52z7dZU2+rT4uH2X6rx6m31afF7M1+87dTb6tPCDWEUEMINYRQQ5MS1tu0nqtMSrhKn26e1v1WmZawyn58g4DQL4QIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECOFA6cvM5a4nYb29yjoO4WmVvM58WPQkbF8e+RqPcDlPVp4t+xLS/W0QEBCqI8yTLpsizN8n/WmJ0CEEBAQEBAQEBIT2CF+/fci6a4hw8y7rvC3CeRYCAgICAgICAgICAgICwlCEtJYIdzdp/3+kdkKHToFQ+RjJMCEcCKF7CAdC6B7CgRC6Nylh9zGtJUJ6uNCsnsOFhhkvPAHC9x+fsloi/Pp5nXTREuH++iLpMwICAgICAgICAgICAgKC/87R7/u0lggdQkBAQEBAQEB4dYQON67UTqh9KuwkDlRBQED4R8gOF5o3Rdh8yepLGO0ez6MNPO+WQ9w3NilhvBAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyEKJt+lL0SNeADUR4TG9cGWXHew10AkPP4aRBO9ohEuOFUEMINYRQQwg1dAKEDvd41t5t2u7lL0qSJEmSJEnSyfUXeomSFq0EzbkAAAAASUVORK5CYII="/>
@@ -59,8 +63,8 @@ This project involves using Python, Beautiful Soup, Selenium, and Pandas to extr
 </div>
 
 [View code on GitHub](https://github.com/kevinmfreire/mi-valentino)
-
-[View Interactive Viz](https://public.tableau.com/app/profile/kevin.freire/viz/ValentinoProductAnalysis/ValentinoProductAnalysis?publish=yes)
+<br>
+[View Dashboard on Tableau](https://public.tableau.com/app/profile/kevin.freire/viz/ValentinoProductAnalysis/ValentinoProductAnalysis?publish=yes)
 
 ---
 
@@ -72,12 +76,26 @@ This project involves using Python, scikit-learn, seaborn, and matplotlib to dev
     <img src="https://img.shields.io/badge/pandas-white?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMIAAAEDCAMAAABQ/CumAAAAeFBMVEX///8TB1QAAEb/ygDnBIgPAFLNzNYTAFnQ0NgMAFcAAETb2eP39/oUBlfV1N7/xwDmAID/9tfLydcjG17/4Yz//vbCwM3ykcL61OfoBIwyKmgAADYAAE0AAErx8PTIxdT/+un/34T85/Lyir/lAHv50eX+9fkpH2Ma8J+4AAACEklEQVR4nO3dzVIaQRSAUYNCEIGoiYmJivnP+79hFrmLVHELZ6pnmG483xqaPruh5lb32ZkkSZIkSZIkvb52z7dZU2+rT4uH2X6rx6m31afF7M1+87dTb6tPCDWEUEMINYRQQ5MS1tu0nqtMSrhKn26e1v1WmZawyn58g4DQL4QIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECOFA6cvM5a4nYb29yjoO4WmVvM58WPQkbF8e+RqPcDlPVp4t+xLS/W0QEBCqI8yTLpsizN8n/WmJ0CEEBAQEBAQEBIT2CF+/fci6a4hw8y7rvC3CeRYCAgICAgICAgICAgICwlCEtJYIdzdp/3+kdkKHToFQ+RjJMCEcCKF7CAdC6B7CgRC6Nylh9zGtJUJ6uNCsnsOFhhkvPAHC9x+fsloi/Pp5nXTREuH++iLpMwICAgICAgICAgICAgKC/87R7/u0lggdQkBAQEBAQEB4dYQON67UTqh9KuwkDlRBQED4R8gOF5o3Rdh8yepLGO0ez6MNPO+WQ9w3NilhvBAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyEKJt+lL0SNeADUR4TG9cGWXHew10AkPP4aRBO9ohEuOFUEMINYRQQwg1dAKEDvd41t5t2u7lL0qSJEmSJEnSyfUXeomSFq0EzbkAAAAASUVORK5CYII="/>
     <img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter"/>
     <img src="https://img.shields.io/badge/sklearn-white?logo=scikit-learn"/>
-    <img src="https://img.shields.io/badge/Seaborn-white?logo=Seabo"/>
+    <img src="https://img.shields.io/badge/Seaborn-white?logo=Seaborn"/>
 </div>
 
 [View code on GitHub](https://github.com/kevinmfreire/SCL_delays)
-
+<br>
 [View code on Colab](https://colab.research.google.com/github/kevinmfreire/SCL_delays/blob/main/notebook/solution.ipynb)
+
+---
+
+### Revolutionizing Autonomous Racing: Reinforcement Learning for High-Performance Vehicle Control
+This project aims to train a virtual vehicle to race on a challenging track using reinforcement learning techniques. The vehicle will be trained using a custom fine-tuned AWS Deep Learning architecture to achieve optimal performance. After training, an A/B test will be performed between the custom model and an AWS pre-trained model to determine the effectiveness of our approach. This project has the potential to revolutionize the field of autonomous vehicle technology and improve racing performance.
+
+<div>
+    <img src="https://img.shields.io/badge/Python-white?logo=Python"/>
+    <img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter"/>
+    <img src="https://img.shields.io/badge/AWS-blue?logo=AWS"/>
+    <img src="https://img.shields.io/badge/SageMaker-yellow?logo=AWS"/>
+</div>
+
+[View code on GitHub](https://github.com/kevinmfreire/DeepRacer-Freire)
 
 <!-- [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -92,8 +110,5 @@ This project involves using Python, scikit-learn, seaborn, and matplotlib to dev
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/) -->
 
-
-
----
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->

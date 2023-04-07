@@ -15,11 +15,11 @@ This project involves building a text classification model for sentiment analysi
 
 [View code on GitHub](https://github.com/kevinmfreire/meaningful_words)
 <br>
-[Try out my Demo.](https://kevinmfreire-meaningful-words-st-app-q4hiuc.streamlit.app/#demo)
+[Try out my Demo](https://kevinmfreire-meaningful-words-st-app-q4hiuc.streamlit.app/#demo)
 
 ---
 
-### Enhancing Low Dose CT Scan Image Quality Using Deep Learning
+### [Enhancing Low Dose CT Scan Image Quality Using Deep Learning](./pages/md-rfa.md)
 This project aims to develop a deep learning model that improves the image quality of low dose CT scans. The model will be trained on a large dataset of low and high dose CT scans and will use techniques such as CNNs, GANs, and image super-resolution to enhance the resolution, sharpness, and contrast of low dose CT scans. By doing so, the model can reduce radiation exposure for patients undergoing CT scans while providing high-quality images for diagnosis and treatment. The effectiveness of the model will be evaluated on a separate dataset of low dose CT scans, and the results will demonstrate its potential in medical imaging.
 
 <div>
@@ -52,8 +52,6 @@ In this project, I aim to develop a web scraping script that utilizes Spacy's pr
 
 ### Valentino Website Product Extraction and Analysis using Python, Beautiful Soup, Selenium, Pandas, and Tableau
 This project involves using Python, Beautiful Soup, Selenium, and Pandas to extract product information from the Valentino website. We will extract data such as product names, prices, descriptions, sizes, colors, and images, and then perform data analysis using pandas and matplotlib to gain insights into the trends and patterns of the products. Additionally, I use Tableau to create interactive visualizations to further explore and analyze the data. This project showcases the power of web scraping and data analysis using Python and its libraries, as well as the ability to present findings using Tableau.
-
-<iframe src="https://public.tableau.com/app/profile/kevin.freire/viz/ValentinoProductAnalysis/ValentinoProductAnalysis?publish=yes" style="width:100%; height:300px;"></iframe>
 
 <div>
     <img src="https://img.shields.io/badge/Python-white?logo=Python"/>
@@ -97,10 +95,10 @@ This project aims to train a virtual vehicle to race on a challenging track usin
 
 [View code on GitHub](https://github.com/kevinmfreire/DeepRacer-Freire)
 
-<!-- [Project 3 Title](http://example.com/)
+[Project 3 Title](./pages/sample_page.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
---- -->
+
 
 <!-- ### Category Name 2
 

@@ -81,7 +81,13 @@ This project involves using Python, Beautiful Soup, Selenium, and Pandas to extr
 ---
 
 ### Flight Delay Prediction using Python, Scikit-learn, Seaborn, Matplotlib and SMOTE Technique
-This project involves using Python, scikit-learn, seaborn, and matplotlib to develop a predictive model for determining the probability of delay for a scheduled flight. We solved the issue of imbalanced datasets using the SMOTE technique. The model has numerous applications, from optimizing airline schedules to helping travelers make informed travel plans.
+This project involves using Python, scikit-learn, seaborn, and matplotlib to develop a predictive model for determining the probability of delay for a scheduled flight. I solved the issue of imbalanced datasets using the SMOTE technique. The model has numerous applications, from optimizing airline schedules to helping travelers make informed travel plans.
+
+<figure>
+    <img src="./images/flight-delay/rf_cm.png" width=47%/><img src="./images/flight-delay/rf_roc.png" width=51.3%/>
+    <figcaption>Confusion matrix (left), ROC Curve (right) performance analysis for Random Forrest Classifier.</figcaption>
+</figure>
+
 
 <div>
     <img src="https://img.shields.io/badge/Python-white?logo=Python"/>
@@ -108,16 +114,3 @@ This project aims to train a virtual vehicle to race on a challenging track usin
 </div>
 
 [View code on GitHub](https://github.com/kevinmfreire/DeepRacer-Freire)
-
-<!-- [Project 3 Title](./pages/sample_page.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
-<!-- ### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/) -->
-
-<!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
-<!-- Remove above link if you don't want to attibute -->

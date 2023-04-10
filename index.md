@@ -84,8 +84,7 @@ This project involves using Python, Beautiful Soup, Selenium, and Pandas to extr
 This project involves using Python, scikit-learn, seaborn, and matplotlib to develop a predictive model for determining the probability of delay for a scheduled flight. I solved the issue of imbalanced datasets using the SMOTE technique. The model has numerous applications, from optimizing airline schedules to helping travelers make informed travel plans.
 
 <figure>
-    <img src="./images/flight-delay/rf_cm.png" width=47%/>
-    <img src="./images/flight-delay/rf_roc.png" width=51.3%/>
+    <img src="./images/flight-delay/rf_performance.png" />
     <figcaption>Confusion matrix (left), ROC Curve (right) performance analysis for Random Forrest Classifier.</figcaption>
 </figure>
 

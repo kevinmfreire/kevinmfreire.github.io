@@ -1,7 +1,7 @@
 ## Kevin Freire's Data Science and ML Portfolio
 ___
 
-Nased on minima Jekyll theme for Github Pages [1]
+Based on minima Jekyll theme for Github Pages [1]
 
 ### References
 

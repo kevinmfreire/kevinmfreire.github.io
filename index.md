@@ -113,3 +113,13 @@ This project aims to train a virtual vehicle to race on a challenging track usin
 </div>
 
 [View code on GitHub](https://github.com/kevinmfreire/DeepRacer-Freire)
+
+### Implementing Height Sensing System for Lunar Lander: Enabling Canada's First Soft Landing on the Moon
+The project involves the implementation of the Height Sensing System (HSS) for a Lunar Lander. The HSS subsystem will engage during the last 50 meters of the descent towards the lunar surface to determine the spacecraft altitude and signal to other subsystems when the spacecraft has landed. The spacecraft has a laser altimeter sensor that is used to compute the height of the spacecraft, and the HSS will read the raw altimeter measurements and calculate the height. The project will require working with the complex Lander flight software, which enables all subsystems to execute in a distributed context, with communication through a message bus called MoonWire. The project will involve understanding and adhering to the MoonWires specification to ensure proper communication between subsystems. The ultimate goal of the project is to enable the first Canadian-led soft landing on the moon.
+
+<div>
+    <img src="https://img.shields.io/badge/Python-white?logo=Python"/>
+    <img src="https://img.shields.io/badge/Linux-grey?logo=Linux"/>
+</div>
+
+[View code on GitHub](https://github.com/kevinmfreire/project_skyfall)

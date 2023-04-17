@@ -123,3 +123,9 @@ The project involves the implementation of the Height Sensing System (HSS) for a
 </div>
 
 [View code on GitHub](https://github.com/kevinmfreire/project_skyfall)
+
+---
+
+## Certifications
+* [Fundementals of Visualization with Tableau](https://coursera.org/share/1a628970b1aae6fa2b0615228ebb07b1)
+* [SQL for Data Science](https://coursera.org/share/d89688ad589709a09009f521ded04430)

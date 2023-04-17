@@ -129,3 +129,4 @@ The project involves the implementation of the Height Sensing System (HSS) for a
 ## Certifications
 * [Fundementals of Visualization with Tableau](https://coursera.org/share/1a628970b1aae6fa2b0615228ebb07b1)
 * [SQL for Data Science](https://coursera.org/share/d89688ad589709a09009f521ded04430)
+* [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://coursera.org/share/2259be8d0234b04a2e713a9515caa8dc)
